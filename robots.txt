@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://britek220.github.io/morenkoff-blog/sitemap.xml

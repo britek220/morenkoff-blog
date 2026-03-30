@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Morenkoff Blog</title>
+    <link href="https://britek220.github.io/morenkoff-blog/feed.xml" rel="self" />
+    <link href="https://britek220.github.io/morenkoff-blog" />
+    <updated>1970-01-01T03:00:00+03:00</updated>
+    <author>
+        <name>Morenkoff</name>
+    </author>
+    <id>https://britek220.github.io/morenkoff-blog</id>
+
+</feed>

@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Morenkoff Blog",
+    "description": "",
+    "home_page_url": "https://britek220.github.io/morenkoff-blog",
+    "feed_url": "https://britek220.github.io/morenkoff-blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Morenkoff"
+    },
+    "items": [
+    ]
+}
